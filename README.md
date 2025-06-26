@@ -1,6 +1,6 @@
 # RAG-Powered LLM Agents for Banking Chatbots and Assistants
 
-This repository contains the baseline solution for a student project focused on building a **Retrieval-Augmented Generation (RAG)** system for banking chatbots using Large Language Models (LLMs). The goal is to create an assistant capable of producing accurate and complete answers using Alfa-Bank’s internal knowledge base.
+This repository contains the baseline solution for SMILES 2025 project focused on building a **Retrieval-Augmented Generation (RAG)** system for banking chatbots using Large Language Models (LLMs). The goal is to create an assistant capable of producing accurate and complete answers using Alfa-Bank’s internal knowledge base.
 
 ---
 
