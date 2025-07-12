@@ -95,11 +95,12 @@ This will print the **average METEOR score** for the predicted answers.
 
 ## 📚 Dataset & Knowledge Base
 
-Datasets will be provided via a separate download link and should include:
+Datasets are available: https://huggingface.co/datasets/mllab/smiles-2025
 
 - `valid_dataset.json` — Validation examples with ground-truth responses
 - `test_dataset.json` — Unlabeled questions for final evaluation
 - `knowledge/` — Directory with knowledge base files in `.txt` format
+
 
 ---
 
