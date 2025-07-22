@@ -1,0 +1,5 @@
+
+SSI for FX, MM, Commercial Payments
+Currency; Correspondent Bank; SWIFT code; Account Number
+Belarussian Ruble (BYN); Closed Joint-Stock Company ‘Alfa‑Bank’, Minsk 43-47, Surganova Street, 220013 Minsk, Belarus; ALFA BY 2X; BY66ALFA17020644300170270000
+Yuan Renminbi (CNY); BANK OF CHINA (RUSSIA) Pr-t Mira 72, Moscow, 129110; BKCHRUMM; 30109156600000000069

@@ -1,0 +1,318 @@
+
+What is a debit card for?
+• Pay for purchases. You can pay with your card anywhere that has a terminal. You can also pay for purchases or subscriptions online or in a mobile app. For payments made with an Alfa-Bank debit card, you can earn bonuses, miles, or cashback up to 100%.
+• Transfer money to your own or other accounts — for example, to repay a friend or chip in for a gift for a colleague. Transfers can be made card-to-card, by account details, or by phone number via the Faster Payments System.
+• Pay bills — for utilities, internet, or mobile balance top-ups.
+• Withdraw cash at ATMs.
+• Receive salary, pensions, or government benefits.
+
+How does a non-personalized card differ from a regular one?
+A non-personalized card is the same as a regular Alfa debit card: it's free, allows fee-free transfers and payments, and offers up to 100% cashback in the Super Cashback drum, and 5% cashback in 4 categories or 3 categories + 1% on everything. But the main advantage is that you can start using it much sooner: pick it up at a branch in 10 minutes without prior order. If you need delivery — we’ll bring it the same day.
+
+How is a debit card different from a credit card?
+A debit card only holds your own money. A credit card, on the other hand, has a limit — a sum you can borrow from the bank if you run out of funds, which you then repay. That’s not possible with a debit card. If you don’t currently have a credit card, we can offer you an installment plan of up to 100,000 rubles for daily expenses — details available in the mobile app.
+
+What can you do in the app?
+Transfer money and pay online
+Send money by card number or phone number to other banks without commission, within limits. You can always find card details for online purchases in the app.
+Exchange currency
+If you’re saving in foreign currency — exchange it at a favorable rate.
+Earn cashback
+Get cashback for purchases and convert it into rubles in the “All Your Cashback” section. 1 point = 1 ruble. If your card accumulates miles, details are also available in that section.
+Under “History,” you can see how much you’ve earned from each purchase. Sometimes, details appear a few days after the transaction.
+We’ve also gathered partner offers with increased cashback and discounts — find them in the “Showcase” section.
+Apply for anything: from insurance to car loans
+Open an investment account, apply for a loan or insurance — all without visiting a branch.
+Get statements and certificates
+Transaction statements, account balance certificates, debt-free certificates for embassies, and even details of enforcement actions — all right in the app.
+Save for anything
+Renovations, vacations, or a new phone: create a savings goal and achieve it.
+Pay fines
+Add your car number in the app to receive instant notifications about fines and pay them with a 50% discount.
+Open deposits and accounts
+Block and reissue cards, open deposits and savings accounts in rubles or foreign currencies — all online.
+Split bills with friends
+Send a link to friends or colleagues to split a restaurant bill or chip in for a gift for your boss.
+
+How to use Alfa-Online?
+Alfa-Online is a mobile banking site that works on all smartphones. It’s just like the app, but you don’t need to download it.
+Add the icon to your home screen:
+- Open Alfa-Online in Safari.
+- Tap Share at the bottom of the screen.
+- Choose “Add to Home Screen.”
+- Log in using your card number.
+- Create a username and password.
+- Tap “Save Password” so you don’t have to enter it every time.
+
+Quasi-cash commission
+No commission is charged for quasi-cash transactions if:
+• The purchase is under 500 ₽
+• You use one of the following service packages: Maximum Ultra, Maximum Free, Maximum Ultra Free, Premium, A-Club
+• You have the Maximum+ package for personalized and benefit cards
+• The transaction is with stock brokers or dealers
+• The transaction is with Stoloto  
+In all other cases, the commission is 1.99%, minimum 199 ₽.
+The bank identifies a quasi-cash transaction by the MCC code assigned to the seller, based on what they sell. That’s why you won’t get a notification about the fee at the time of payment — it’s charged after the transaction.
+
+What are quasi-cash transactions?
+Quasi-cash transactions include transfers to e-wallets, payment for traveler's checks, casino settlements, cryptocurrency purchases, lottery ticket purchases, transfers to bookmakers or traders, and other operations where you're essentially buying money.
+A commission may be charged for such operations.
+
+How to reissue or block a card?
+If your card stops working, you can reissue it via the app, Alfa-Online, or the contact center:
+• +7 495 788 88 78 (Moscow and region)
+• 8 800 200 00 00 (other regions)  
+Cost: 290 ₽; free with the Premium tariff.
+You don’t need to reissue your card due to expiration — its validity has been extended until December 2028. For online payments, use the old expiration date.
+Note: some stores haven’t updated their terminals, so payments may be declined. In that case, simply order a new card.
+If your card is lost, you can block and reissue it yourself in the app or Alfa-Online. If you find the card later, unblock it in the same way and use it again.
+
+Can’t pick up the card at the scheduled time or place?
+Change the delivery time and address in the mobile app, Alfa-Online, or call:
+• +7 495 788 88 78 (Moscow and region)
+• 8 800 200 00 00 (other regions)
+If you want to switch from branch pickup to courier delivery or vice versa, call the contact center — we’ll help.
+You can track when your card will be ready in the mobile app or via the link we’ll send by SMS or push notification.
+
+What is contactless payment and how to enable it?
+Contactless payment lets you pay by simply tapping your card on a terminal.
+If you have a Visa or Mastercard, insert the card into an ATM and enter your PIN — usually just checking your balance is enough. Be aware: ATMs of other banks may charge a fee.
+For Mir cards, contactless payment is enabled by default.
+Important: if you plan to make your first payment on a plane, pre-activate the card by checking the balance or withdrawing cash — this saves the PIN to the card.
+
+How to activate the card?
+In the mobile app or Alfa-Online: All my products → Card account → Set a PIN code.
+
+Can I use Alfa-Bank cards to pay with my phone?
+If you have an Android smartphone, you can add your Mir card to the Mir Pay and Samsung Pay apps. It's not yet possible on Apple smartphones, but we're working on a solution.
+Mir Pay works abroad in Armenia, Kyrgyzstan, and Kazakhstan at the same banks that accept the plastic Mir card.
+
+Can I withdraw dollars or euros from third-party ATMs abroad?
+No, but you can withdraw the local currency and exchange it at a currency exchange office.
+
+In which banks can I withdraw cash?
+You can make purchases and withdraw cash at the following:
+
+Armenia — in all banks participating in the ArCa payment system.  
+Tajikistan — in all banks participating in the Express Pay payment system (Dushanbe City).  
+Belarus — in all banks participating in the BELKART payment system, as well as VTB Belarus.  
+Abkhazia — in banks participating in the APRA payment system.  
+South Ossetia — at the National Bank of the Republic of South Ossetia.  
+Kyrgyzstan — in all banks participating in the ELCART payment system.
+
+
+My transaction is not going through in a bank that should support Alfa-Bank cards
+We can't guarantee transaction success — it depends on the settings of the terminals or ATMs of other banks. Try withdrawing money from a different ATM.
+
+Where can I use a debit card abroad?
+You can withdraw cash or pay with the Mir card in Abkhazia, Armenia, Belarus, Tajikistan, Kyrgyzstan, and South Ossetia.
+Acceptance and servicing of Mir cards in a particular country depends on the policy of foreign banks. It's important to remember they may stop accepting Mir cards. To avoid this, it's better to withdraw cash in advance from an ATM.
+Note: Transactions abroad are processed in local currency, so the Mir payment system will convert the amount at its own rate with a 4.9% markup. Make sure there's enough money in the account for the conversion, including the commission.
+If you don’t have a local currency account, link your card to a ruble account — this will eliminate double conversion. You can check the exchange rate on the Central Bank website.
+If we detect frequent suspicious purchases or cash withdrawals, we may call you to confirm that it's you using the card. But remember: we will never ask for your card number or the digits on the back of the card.
+
+Where can I use a debit card?
+
+Anywhere there's a payment terminal: in cafes, stores, salons, pharmacies, hospitals, cinemas. If there’s no terminal, you can withdraw cash from the nearest ATM, transfer money to the seller’s card via the mobile app, or pay via QR code.  
+Online: You can use your debit card for online purchases and link it to services like taxis, streaming platforms, and more. Once the card is linked, you won’t need to enter the number each time — payment will go through automatically.
+
+
+What payment systems do you issue cards for?
+We issue Mir, Mastercard, and Visa cards. You can see which one is available to you in the mobile app, Alfa-Online, or on our website.
+
+What purchases don’t earn cashback?
+In short: canceled transactions, cash withdrawals, QR payments, utility payments, insurance, courier or transport services, transfers, and refunds don’t earn cashback.
+Here’s the full list:
+
+Purchases in financial organizations and pawnshops  
+Replenishing e-wallets  
+Purchases abroad (except online stores), unless made with a premium card where the purchase and account currencies differ  
+If the account is under arrest  
+Transfers from the account  
+Cash withdrawals  
+Purchasing or topping up gift cards  
+Transactions with MCC codes 7800, 7801, 7802, 7995, 9406, 9754 (including casino transactions, gambling, betting, lottery tickets, online gambling, horse/dog racing)  
+MCC 4215 (including air/ground courier services for personal letters/parcels)  
+MCC 4812, 4813, 4814 (telecom services and equipment, e.g., mobile phones, pagers, etc.)  
+MCC 4816, 7372 (network providers, file storage, info services, etc.)  
+MCC 4900 (utilities, waste collection, gas, water systems, etc.)  
+MCC 5968, 7311 (direct marketing and advertising services)  
+MCC 5094, 6211, 6540 (brokerage, securities, traveler’s checks, metals, gems)  
+MCC 5960, 6300 (insurance services, personal or commercial policies)  
+MCC 4829, 6012, 6531–6534, 6536–6538 (money transfers, financial institutions, etc.)  
+MCC 6535 (claims for valuables — financial organizations)  
+MCC 6611 (prepayments, advances)  
+MCC 6760, 9411 (savings bonds, government loan payments)  
+MCC 7511 (truck parking)  
+MCC 7399 (business services, commercial use of cards)  
+MCC 7322, 9211, 9311, 9222, 9223 (bail, fines, legal expenses, child support, taxes, debt collection)  
+MCC 8641, 8651, 8661 (civil, political, religious organizations)  
+MCC 9399 (government auxiliary services: HR, auditing, procurement, facilities)  
+MCC 9400 (transfer to a special financial platform operator account)  
+Purchases at Metro Cash&Carry and Selgros wholesale stores in Russia  
+Purchases on https://www.verkkokauppa.com  
+Purchases that were later returned  
+Any other purchases that abuse the cashback system  
+Payments to the Unified Treasury Account (ЕКС) for state services via the State Services Portal (ГИС ЕПГУ)  
+Transactions involving pawning of personal property  
+Transfers to accounts at Alfa-Bank or other banks  
+
+Important: If you have overdue credit debt, cashback will go to your bonus account, but you won't be able to spend it until the debt is repaid.
+
+Cashback limitations
+
+The maximum cashback per month with the Alfa-Card with Benefits is 5,000 Alfa points, and with the Alfa Premium Card under the Premium tariff — 15,000 Alfa points.  
+The maximum transaction amount eligible for cashback is 100,000 rubles for a regular card and 500,000 rubles for a premium card.  
+When calculating cashback, we round the purchase amount down to the nearest hundred. For example, if you paid 2,340 rubles in a supermarket, we will count it as 2,300 rubles.  
+Bonus points are calculated and displayed in the mobile app 2 days after settlement — you’ll see them when the clock icon disappears next to the purchase.  
+If a purchase is returned or partially canceled, the cashback amount will be adjusted in the reporting period when it happened.
+
+
+What is cashback?
+With the Alfa-Card, you can get part of your spending back in rubles every month. The more you spend, the more cashback you receive — that's what cashback is.
+You can check your earnings in the Your Total Cashback section in the mobile app or Alfa-Online.
+Cashback for regular purchases is credited on the 10th of the following month — for example, September purchases will be credited on October 10. Promotions are credited according to their specific terms.
+
+How to get certificates for a debit card
+You can obtain certificates in the mobile app:
+Card account → Certificates and statements.
+
+Where to find the referral link and track rewards for invited friends?
+You can find the link on the home screen of the mobile app or in Alfa-Online:
+Money for you and your friends → Debit card → Recommend.
+In the same section, you can check the history of your referrals and the status of your rewards.
+If you can't access it, please update the app to the latest version.
+
+How to receive money for recommending a debit card?
+Invite a friend or acquaintance to Alfa-Bank, and both of you will get rewarded.
+It's simple: you send your personal referral link to a friend, and they use it to order and receive a card, then make a purchase of any amount.
+Bonuses will be credited by the end of the next month.
+You can earn up to 50,000 rubles per month from debit card referrals.
+You won’t be able to recommend if:
+• your friend already has a debit card, an active application for one, or a current account with Alfa-Bank,
+• your friend has previously applied for a debit card via a recommendation,
+• your friend closed their account less than 90 days ago.
+
+Aeroflot Miles
+The Aeroflot Alfa-Bank card allows you to join the Aeroflot Bonus program and earn miles for purchases.
+When the card is issued, we register you in the bonus program, so miles are credited automatically.
+To check and spend your miles, activate your personal account at aeroflot.ru in the Aeroflot Bonus → Join the Program section.
+Until then, miles will just accumulate. Purchases can only be paid for entirely with miles.
+• For non-premium World cards:
+  • Spending over 10,000 ₽ — 1.1 miles for every 60 ₽, $1, €1
+  • Spending over 100,000 ₽ — 1.5 miles for every 60 ₽, $1, €1
+• For premium World Black Edition cards:
+  • Spending over 10,000 ₽ — 1.25 miles for every 60 ₽, $1, €1
+  • Spending over 150,000 ₽ — 2 miles for every 60 ₽, $1, €1
+For Standard, Gold, Platinum, and World debit cards, no miles are credited for purchases over 50,000 ₽.
+For example, if you buy a fridge for 60,000 ₽, miles will be credited only for 50,000 ₽.
+For the World Black Edition debit card, no miles are credited for purchases over 500,000 ₽.
+For example, if you buy a car for 600,000 ₽, miles will be credited only for 500,000 ₽.
+Miles are credited for purchases abroad.
+To accumulate and use the program bonuses, you must take a flight with Aeroflot, Nordavia, or another SkyTeam airline within two years of registration in Aeroflot Bonus.
+Bonuses include:
+• upgraded service class for Aeroflot flights,
+• premium air ticket with Aeroflot or another SkyTeam airline,
+• premium services from Aeroflot Bonus partners — for example, double miles for electronics or discounts at pharmacy chains.
+Important: if you do not fly with Aeroflot, Nordavia, or SkyTeam airlines within two calendar years, all accrued miles will expire.
+Purchases with co-branded bank cards do not count in this case.
+
+What is the cash withdrawal fee at branches?
+When withdrawing cash at a branch:
+You can withdraw cash for free at an ATM. If you withdraw at a cashier, a fee applies:
+• Up to 350,000 ₽ — 1.99%, minimum 990 ₽
+• Over 350,000 ₽ — 990 ₽  
+Important: if the money has been in your account for less than 30 days, a fee will be charged regardless of the amount.
+You can clarify the exact fee based on your tariff at a branch or by phone:
++7 495 78-888-78 (Moscow and region), 8 800 200 00 00 (other regions).
+
+Transaction limits
+Each bank client has limits on certain types of transactions.
+You can check them in the mobile app: tap your name on the home screen → Limits.
+These include limits on cash withdrawals, payments, and transfers — all for your security.
+Features of the cash withdrawal limit:
+• It is shared across all cards and accounts and does not depend on the tariff.
+• When issuing a cash loan or refinancing, the limit is increased by the loan amount for 30 calendar days, after which it returns to the previous value.
+• If you take out two cash loans in one month, the limit is increased only by the amount of the first one.
+• In refinancing, the limit increases by the amount you receive above the old loan’s debt.
+
+What are the fees for other services?
+• Balance inquiry at a third-party ATM: 59 ₽, at a partner ATM: 30 ₽, at our ATM: free.
+  Partner banks: Gazprombank, Promsvyazbank, Rosselkhozbank, UBRiR, Otkritie, MKB, and Rosbank.
+• Card servicing:
+  Most current cards have free lifetime annual service.
+  Older tariffs may include a fee — check in the mobile app or Alfa-Online.
+  Payroll clients may have special terms — ask your manager.
+• Tariff fee:
+  Current non-premium cards are issued without a linked tariff, so no fee is charged.
+  Older tariffs may involve a fee — check and change your tariff via the contact center:
+  +7 495 788 88 78 (Moscow and region), 8 800 200 00 00 (other regions).
+  Premium clients with qualifying activity pay no fees; otherwise, the fee is 2990 ₽ per month. Ask your manager for details.
+• Insurance:
+  You can additionally activate Card Protection. It protects against fraud, unauthorized cash withdrawals, theft, and robbery after ATM withdrawal or card loss.
+  The cost depends on the insured payout amount.
+  More details in the mobile app — Showcase — Purchase insurance.
+• SMS notifications:
+  Notifications about spending and deposits via SMS cost 99 ₽/month.
+  Free on the Premium plan and for the first payroll card.
+  You can activate this in Alfa-Online or the mobile app.
+
+What is the fee for transfers?
+If you send money via the mobile app or Alfa-Online, the fee will be displayed on the transfer screen.
+Card-to-card:
+• To an Alfa-Bank client from a debit card — free.
+• From another bank's card to ours via the app or Alfa-Online — free. The other bank may charge its own fee.
+• To a card of another bank — 1.95%, minimum 30 ₽.
+By phone number via the Faster Payments System (FPS):
+• From a current, payroll, or Family account to any bank — free up to 100,000 ₽/month.
+  Above that, 0.5%, but no more than 1500 ₽ per transfer.
+• To Sberbank accounts without FPS — 1.95% of the transfer amount.
+By account details: 99 ₽ per transfer. Free for Premium tariff.
+
+Why didn’t I receive cashback?
+• The item was returned or the purchase was canceled.
+• You didn’t click the partner offer button.
+• The cashback period hasn’t arrived yet — usually paid on the 10th, but the partner may have its own schedule.
+• You purchased items that were already in your cart. Clear your cart before shopping and add items again after clicking Go to shopping.
+• You missed a condition: some offers are valid only in specific cities or require a minimum purchase amount.
+
+How to receive cashback from partners?
+Go to the partner’s offer page and read the terms carefully.
+You can find all offers in the mobile app or Alfa-Online in the Partner Offers section.
+Make your purchase according to all the cashback rules.
+It’s best to disable your VPN, as it can prevent some offers from working.
+Cashback is credited on the 10th of each month.
+There are no limits on our side, but the partner may have a cap — see details in the offer card.
+
+How to Order a Card
+You can order a debit card online:
+• On the website. Choose the one that suits you, click "Order a card," and enter your details. We'll open the account immediately — you can start transferring money via the mobile app or paying for online purchases the same day. The physical card will be delivered within a few days.
+• In the mobile app. If you already have an account with our bank, order a card in the mobile app: All My Products → New Account or Product.
+
+What is an SBP Transfer?
+A transfer through the Fast Payment System (SBP) is a phone number-based transfer to a card of any Russian bank. The money is credited instantly.
+The commission for SBP transfers is 0 ₽, even if you transfer more than 100,000 ₽ per month.
+
+Where You Can Pay with a Debit Card
+• At any location that has a terminal: cafes, stores, salons, pharmacies, hospitals, cinemas. If there is no terminal, you can withdraw cash from a nearby ATM or transfer money to the seller’s card using the mobile app.
+• Online. You can use your debit card to pay for online purchases and link it to online services — like taxis, streaming platforms, and others. If the card is linked, there’s no need to enter its number each time; payments will go through automatically.
+
+Ruble Transfers
+Alfa-Bank offers three types of transfers:
+Card-to-card. Transfers to other Alfa-Bank clients are free, and we also won’t charge a fee for transfers to other banks if you enable the “Free Payments” service: the first two months are free, then it’s free if you spend at least 10,000 ₽ per month or pay 149 ₽. Usually, funds arrive within two minutes; in rare cases, it may take up to two days — depending on the recipient’s bank.
+By account details. The commission is 0 ₽ for everyone — again, with the “Free Payments” service enabled. Such transfers usually take a few hours, rarely up to 3 business days.
+By phone number. These are instant and also commission-free.
+You can transfer money from the app’s main screen or: Payments → Transfer Method. If you top up another bank's card using an Alfa-Bank debit card in their app, we’ll charge 1.95% of the amount, minimum 30 ₽.
+
+Quasi-Cash Fee
+We won’t charge a fee for quasi-cash transactions in these cases:
+• Purchases under 500 ₽
+• If you’re using the service packages: Maximum Ultra, Maximum Free, Maximum Ultra Free, Premium, or A‑Club
+• With the Maximum+ package for privileged and personalized cards
+• At exchange brokers and dealers
+• At Stoloto
+In all other cases, we charge 1.99% of the amount, minimum 199 ₽.
+A quasi-cash transaction is determined by the MCC code assigned to the merchant based on what they sell. Therefore, you won’t see the fee at the moment of purchase — we’ll deduct it afterward, once we identify the merchant’s MCC code.
+
+How to Enable Contactless Payment
+To enable contactless payment, insert your card into an ATM and complete any operation that requires a PIN — for example, check your card balance.

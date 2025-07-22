@@ -1,0 +1,299 @@
+Appendix No. 3 to the Order of JSC "Alfa-Bank" No. 565 dated 08.05.2019
+
+Agreement
+on the Procedure for Issuance and Servicing of the Prepaid Bank Card “Prepaid for BPA”
+Joint Stock Company “Alfa-Bank” (OGRN 1027700067328, INN 7728168971, address: 27 Kalanchyovskaya Street, Moscow, 107078), hereinafter referred to as the “Bank”, on one side, and the Client, on the other side, hereinafter collectively referred to as the “Parties”, have entered into this Agreement as follows.
+
+1. Terms, Definitions, and Abbreviations Used in the Agreement
+Authorization – Bank’s consent to conduct an Expense Operation using the Prepaid Card (or its details or Card Token) at the time of the operation.
+“Alfa-Check Light” – Bank's service that sends SMS notifications to the Holder’s mobile number containing information on transactions, balance of the Prepaid Card, and a One-Time Password.
+Agent (Banking Payment Agent) – A legal entity resident in the Russian Federation, engaged by the Bank to perform activities including the issuance of Prepaid Cards to Clients.
+ATM – A multifunctional electronic hardware-software complex for performing transactions by Holders without Bank staff.
+Contactless Payment – A payment method using a Prepaid Card or Card Token via NFC-enabled device by bringing it close to the terminal.
+Holder (Client) – The Applicant who has undergone Identification and concluded the Agreement, receiving the Prepaid Card from the Agent.
+Application to Join the Agreement – A document signed by the Applicant, agreeing to the Bank's processing of personal data.
+Identification – Procedures conducted by the Agent to verify the Client’s identity under Federal Law No. 115-FZ.
+Applicant – A Russian citizen over 18 who applies for and receives a Prepaid Card.
+Card Token – A virtual representation of the Prepaid Card in a mobile payment service used for contactless payments.
+Mobile Device – A phone, PDA, or tablet supporting Java MIDP 2.0 or equivalent technology.
+One-Time Password – A known sequence of alphanumeric characters used per the Agreement.
+Transaction – Expense, top-up, or refund transaction conducted in Russian rubles using the Prepaid Card or Token.
+Refund Operation – Increase of card balance due to returned funds from merchants (TSPs).
+Top-Up Operation – Increase of card balance funded by the Agent or as per a lost/damaged card recovery.
+Bank Branch – An Alfa-Bank office servicing individuals.
+Card Balance – Electronic funds available on the Prepaid Card. Initially zero; max limit: 300,000 rubles.
+Prepaid Card – Reloadable Mastercard “Prepaid for BPA” card issued without a bank account, given with a PIN envelope.
+Reissue – Card replacement upon loss, damage, or expiry, done by the Agent.
+Payment System – The Mastercard International Payment System.
+Mobile Payment Service – Services like Apple Pay or Samsung Pay enabling contactless payments.
+Card Details – Card Number, CVV2, Expiry Date, and PIN.
+Expense Operation – Cash withdrawal or payment using the Prepaid Card or Token.
+Bank Website – www.alfabank.ru
+Internet – The Internet network.
+Card Expiry Date – Shown as MM/YY on the card; valid through the last day of that month.
+Goods – Products or services purchased from TSPs using the Prepaid Card or Token.
+TSP (Merchant) – A commercial entity providing goods/services, excluding certain non-profits.
+Tariffs – Bank service fees applicable to the Prepaid Card.
+3DSecure – Security tech from Visa/MasterCard ensuring secure online transactions.
+Terminal – POS device for card payments.
+Electronic Money – Pre-funded funds stored on the card, usable via the card only.
+Electronic Payment Instrument – Tools (like the Prepaid Card) used to make cashless payments.
+CVC2 Code – 3-digit security code on the back of the card used for online transactions.
+MasterCardSecureCode – Mastercard security standard supporting 3DSecure.
+NFC (Near Field Communication) – Short-range wireless communication tech.
+PIN Code – Secret code for card verification, equivalent to a handwritten signature.
+
+2. General Provisions
+2.1. The Agreement defines the rights and obligations of the Bank and Holder, and their interaction regarding issuance and servicing of the Prepaid Card.
+2.2. The Agreement is published on the Bank's website.
+2.3. The Agreement is concluded for each Prepaid Card via:
+
+Signing the Application;
+Receiving the card and PIN envelope.
+
+The Applicant becomes a Client upon these actions.
+2.4. All operations using the Prepaid Card or Token are considered performed by the Holder.
+2.5. The Bank may unilaterally amend the Agreement. Changes become effective upon publication on the website.
+2.6. The Client must check the website daily for updates to the Agreement or Tariffs.
+2.7. The Client may not transfer the card or rights under this Agreement to third parties.
+2.8. The Bank is not liable for losses due to Client’s breach of this Agreement.
+
+3. Subject of the Agreement
+3.1. The Bank issues and the Agent delivers the Prepaid Card. Services include:
+
+Card issuance;
+Increasing balance via top-ups or refunds;
+Deducting amounts for expenses;
+Returning unused balance as specified.
+
+3.2. The Bank ensures servicing and operation execution per the Agreement.
+3.3. The Holder may:
+
+Pay for goods/services within the card balance;
+Check balance as outlined;
+Request mini-statements (last 10 transactions) via ATM;
+Withdraw cash at ATMs (third-party fees may apply);
+Perform other allowed operations.
+
+3.4. Upon termination of the card or Agreement, the card becomes invalid.
+3.5. The card cannot be topped up by the Holder or third parties, only by the issuing Agent.
+3.6. The card cannot transfer funds to accounts of the Holder or third parties.
+3.7. MastercardSecureCode expense transactions require activation of Alfa-Check Light (enabled by default).
+3.8. The card cannot be used at foreign or certain non-profit TSPs.
+3.9. PIN change is available via Alfa-Bank ATMs.
+3.10. The card cannot be used for gambling or non-state lotteries.
+3.11. Expense transactions to individuals are not supported.
+3.12. The Holder consents to personal data processing per Federal Law No. 152-FZ, including:
+
+Collection, storage, transfer, deletion;
+Sharing with third parties under confidentiality agreements.
+
+3.13. The Bank processes personal data for the term of the Agreement and 10 years after termination. The Client may revoke consent, except where legally allowed for continued processing.
+
+4. Procedure for Providing the Prepaid Card and Top-Up Operations
+4.1. The Bank issues and services the Prepaid Card.
+4.2. The Bank distributes cards through an Agent.
+4.3. Upon issuance to the Client (per clause 2.3), the card is active and ready for top-up.
+4.4. From receipt until expiry, the Holder may perform Expense Transactions and access the balance as per clause 4.5.
+4.5. The Holder may check the card balance and transactions via:
+
+Alfa-Bank ATMs;
+Alfa-Check Light service.
+
+4.6. Top-ups are only made by the Agent in favor of the Holder. Timing is subject to Bank and payment system rules.
+4.7. The Bank is not liable for service complaints if the Holder violates clause 9.4.
+4.8. The Holder is responsible for card usage.
+4.9. Reissue occurs upon loss, damage, or expiry, via the Bank-approved application form.
+
+5. Prepaid Card Limits
+Upon successful identification, the Bank sets the following limits:
+
+5.1.1. Max 150 Expense Transactions/month;
+5.1.2. Max top-up per transaction: 300,000 rubles;
+5.1.3. Max total top-up across all cards/year: 600,000 rubles;
+5.1.4. Max single Expense Transaction: 300,000 rubles;
+5.1.5. Max monthly Expense Transactions: 300,000 rubles;
+5.1.6. Max monthly top-up: 600,000 rubles;
+5.1.7. Max refund amount: 300,000 rubles;
+5.1.8. Max balance on one card: 300,000 rubles;
+5.1.9. Max total balance across all cards: 600,000 rubles;
+5.1.10. Max ATM cash withdrawal/day: 120,000 rubles.
+
+
+6. Alfa-Check Light Service Procedure
+6.1. Provided automatically with the card, subject to technical availability and mobile network agreement.
+6.2. Activated upon card issuance.
+6.3. Deactivation is done via ATM by entering the PIN.
+6.4. Phone number changes are done via ATM.
+6.5. Top-up notifications are sent via Alfa-Check Light.
+6.6. Notifications confirm deduction of card balance.
+
+7. Expense and Refund Operations
+7.1. The card is valid for transactions until expiration or termination.
+Before the first use, the Holder must sign the card.
+7.2. For in-store transactions without contactless support:
+
+Present card and sign;
+Insert chip side up;
+Enter PIN if requested;
+Show ID if requested;
+Sign receipt and retain it.
+
+7.3. For contactless payments:
+
+Confirm amount;
+Tap card/device to terminal;
+For amounts > 1000 RUB, enter PIN and sign where applicable.
+
+7.4. For online transactions:
+
+Enter card details (number, expiry, CVC2);
+Provide name/address if requested;
+Present ID/card if required upon delivery;
+Keep transaction confirmations.
+
+7.5. The Bank is not liable if:
+
+Card is unsigned;
+Signature mismatch;
+Wrong PIN/CVC2;
+MasterCardSecureCode failed;
+ID not shown;
+Card not blocked after device loss.
+
+7.6. Authorization is denied if balance is insufficient or rules are violated.
+7.7. The Bank deducts the expense amount upon authorization.
+7.8. The Bank is not responsible for disputes with TSPs.
+7.9. Additional use recommendations are posted on the Bank's website.
+7.10. Refunds (e.g., service cancellations) result in card balance increase.
+If the refund occurs after card expiration, funds are retained by the Bank (per clause 8.3), unless another refund method is arranged with the TSP.
+7.11. Card Token creation:
+
+Multiple tokens allowed (e.g., for phone/watch);
+Blocked cards cannot be tokenized;
+Alfa-Check Light and current phone number are required;
+OTP confirmation is mandatory;
+Token usage is subject to third-party user agreements;
+Holder installs the service on their own device;
+Tokens may be blocked independently from the card.
+
+
+8. Termination of the Prepaid Card
+8.1. The Bank may suspend or terminate the card without notice if:
+
+Illegal or risky transactions occur;
+Mastercard reports misuse;
+Law enforcement reports misuse;
+Client violates the Agreement;
+Regulatory or reputational reasons exist;
+Card not signed or misused;
+PIN entered incorrectly 5 times;
+Refunds exceed original transactions;
+Suspicious attempts to exceed limits;
+Non-residency status suspected.
+
+8.2. The Bank is not liable for losses due to suspension or termination.
+8.3. After 45 days from card expiry, remaining funds are transferred to the Bank’s revenue.
+The Client may request a refund thereafter.
+8.4. A reissue request may be submitted before expiry; the remaining balance will be transferred to the new card.
+
+9. Rights and Obligations of the Parties
+9.1. The Bank has the right to:
+9.1.1. Require the Holder to comply with the Agreement.
+9.1.2. Refuse to conclude the Agreement or provide services without explanation, including under Federal Law No. 115-FZ.
+9.1.3. Deduct funds from the card balance for Expense Transactions.
+9.1.4. Suspend or terminate the card in cases stipulated by the Agreement.
+9.1.5. Block the card due to reputational/other risks.
+9.1.6. Deny Authorization if:
+
+Card balance is insufficient;
+Any of the card details (number, expiry date, PIN, CVC2) are incorrect or missing;
+MasterCardSecureCode verification fails.
+
+9.1.7. Deny transactions exceeding limits (clause 5.1).
+9.1.8. Request ID, proof of address, phone numbers, and copies of such documents.
+9.1.9. Process personal data as per Federal Law No. 152-FZ, including:
+
+Communication;
+SMS/email notifications;
+Voice calls (incl. auto-informers);
+Handling claims;
+Data sharing with payment systems or mobile services.
+
+9.1.10. Refuse card reissue at its discretion.
+
+9.2. The Bank is obligated to:
+9.2.1. Provide services as per the Agreement.
+9.2.2. Block the card upon Holder’s report of loss/theft/misuse and reissue on request.
+
+9.3. The Holder has the right to:
+9.3.1. Receive and use the card under the Agreement.
+9.3.2. Access the current Agreement version on the website and contact support.
+9.3.3. Create and add a Card Token using mobile payment services (OTP confirmation required).
+9.3.4. Delete the Card Token at any time (does not block the card).
+9.3.5. Activate Alfa-Check Light at an ATM.
+9.3.6. Deactivate Alfa-Check Light at any time via ATM.
+
+9.4. The Holder agrees to:
+9.4.1. Review the current Agreement upon conclusion and during its term.
+9.4.2. Not use the card for business or prohibited transactions.
+9.4.3. Not share the card or its details with third parties.
+9.4.4. Observe the limits in clauses 5.1 and 9.1.7.
+9.4.5. Only spend within the card balance and Agreement limits.
+9.4.6. Use the card only within the Russian Federation.
+9.4.7. Retain all transaction documents during the card’s validity and provide them to the Bank upon request.
+9.4.8. Not use the card for money laundering or terrorism financing.
+9.4.9. Keep the card safe and undamaged; avoid exposure to heat, chemicals, magnetic fields, etc.
+9.4.10. Immediately report loss/theft/misuse of the card or CVC2 by calling +7-499-681-28-58.
+9.4.11. Review Token usage terms and site information (e.g., alfabank.ru/samsungpay, alfabank.ru/applepay).
+9.4.12. Only create Tokens for personally owned cards/devices.
+
+10. Complaints and Dispute Resolution
+10.1. The Holder bears the risk for unauthorized transactions.
+10.2. The Holder is responsible for losses due to card misuse or Agreement violations.
+10.3. Complaints may be submitted in case of:
+
+Poor service;
+Failed ATM withdrawals;
+Failed merchant transactions;
+Transfer of remaining funds to Bank’s revenue (per clause 8.3).
+
+10.4. Complaints are submitted via +7-499-681-28-58.
+10.5. Holder must provide card details, transaction info, and supporting documents. Personal appearance may be required.
+10.6. Claims without required documents are not accepted.
+10.7. Claims must be filed within 30 calendar days of the incident.
+10.8. The Bank responds within 30 calendar days.
+10.9. Claims for suspected fraudulent operations are not accepted.
+10.10. Unresolved disputes are referred to court under the Civil Procedure Code of the Russian Federation.
+
+11. Liability of the Parties
+11.1. Parties are liable for non-performance as per Russian law.
+11.2. Services are provided based on technical availability.
+11.3. The Bank is not liable for communication failures beyond its control.
+11.4. Force majeure (e.g., natural disasters, war, government acts) releases Parties from liability.
+11.5. The Bank is not liable for disputes between the Holder and TSPs or Agent.
+11.6. The Bank is not liable for incorrect card/token usage.
+11.7. The Bank does not provide telecom services and is not liable for connectivity issues.
+11.8. The Bank is not liable for service failures due to power outages, software bugs, maintenance, or payment system malfunctions.
+11.9. The Bank is not liable for actions taken to freeze funds per Federal Law No. 115-FZ.
+
+12. Term of the Agreement and Card Termination
+12.1. The Agreement remains valid until all obligations are fulfilled. Unilateral termination is only allowed as stipulated.
+12.2. The Bank may terminate the Agreement if the Agent violates Identification procedures.
+12.3. After the card expires or is terminated, the Holder may not use it.
+12.4. After 45 days from expiration, the remaining funds are transferred to the Bank’s revenue (per clause 8.3).
+
+13. Final Provisions
+13.1. The Agreement is governed by the laws of the Russian Federation.
+13.2. The Holder acknowledges the adequacy of the Bank’s information and security systems.
+13.3. Confirmation of transactions is provided by electronic records (logs, protocols) stored by the Bank or Payment System and may be used in court.
+
+14. Bank Details
+Bank: JSC “Alfa-Bank”
+OGRN: 1027700067328
+INN: 7728168971
+KPP: 770801001
+Address: 27 Kalanchyovskaya St., Moscow, 107078
+Corr. Account No. 30101810200000000593 at the Main Branch of the Central Bank of Russia for the Central Federal District
+BIC: 044525593
+Customer Support: +7-499-681-28-58  

@@ -1,0 +1,99 @@
+
+What is a credit card
+A credit card is a payment card that allows you to borrow money from the bank.
+The amount the bank is willing to lend is called the credit limit.
+With the card, you can pay for goods and services (including online and via QR code in stores), withdraw cash from ATMs, make transfers, and repay credit cards from other banks.
+
+How to top up a credit card
+Credit cards can be topped up for free:
+• In the mobile app or Alfa-Online (Credit card account → Top up)
+• Via Alfa-Bank and partner ATMs
+• By transfer from cards of other banks
+You can transfer money from your own account or another bank’s account. We don’t charge a commission for topping up the card, but the sending bank may.
+
+How to withdraw cash for free from a credit card
+The ability to withdraw cash for free depends on your card’s tariff. You can check it in the mobile app or Alfa-Online under Credit card → Tariffs.
+Alfa-Bank credit cardholders with the free cash withdrawal feature can withdraw up to ₽50,000 per month without commission. The limit resets on the 1st of each month. If you withdraw more than ₽50,000 per month, a commission is charged only on the excess. For example, if you withdraw ₽70,000, you’ll pay a commission on ₽20,000.
+If the card does not include the free withdrawal feature, any cash withdrawal will incur a commission according to the tariff.
+Whether a grace period applies to cash withdrawals depends on your contract terms, available in the mobile app or Alfa-Online → Credit card account → Interest-free period.
+
+How to get a credit card
+You can apply for a credit card online:
+• On the website. Choose a suitable card, fill out the form, and wait for bank approval. We’ll deliver the physical card to the branch you specified in the application or via courier.
+• In the mobile app or Alfa-Online. If you already have an account with us, order a card via the Alfa-Online app: All my products → New account or product.
+
+What is a minimum payment
+A minimum payment is the portion of your credit debt that must be paid each month, even within the grace period. It may include interest if the operation is outside the grace period or no grace applies.
+The minimum payment is 3–10% of your debt, but no less than ₽300. If your debt is under ₽300, you need to repay the entire amount.
+If the minimum payment is not made, the grace period ends, and interest will be charged on the entire debt.
+You can check the amount and due date of the minimum payment in the mobile app or Alfa-Online → Credit details. A push notification will be sent one day before the payment is due.
+
+If the grace period has ended
+If you don’t repay the debt during the grace period, interest will be charged for using the credit. Interest is calculated on the full amount and for the full usage period.
+The interest rate can be viewed in the mobile app or Alfa-Online → Credit card account → Tariffs.
+Grace period terms are under Credit card account → Interest-free period.
+
+When will the grace period reset after repayment
+The grace period resets during the day after full repayment of the debt.
+Check the update in the mobile app or Alfa-Online → Credit card account → Interest-free period.
+If there’s no grace period end date shown, that means everything is paid. A new grace period will start from the date of your next qualifying transaction.
+
+How many days the grace period lasts
+At Alfa-Bank, the grace period duration depends on the type of credit card.
+It may cover all operations (purchases, cash withdrawals, transfers, repayment of another bank’s card) or only purchases and repayment of another bank’s card.
+Check grace period terms in the mobile app or Alfa-Online → Credit card account → Interest-free period.
+The grace period starts from the date of the qualifying transaction.
+
+Where you can pay with a credit card
+• At any establishment with a terminal (including via QR code): cafes, shops, salons, pharmacies, hospitals, cinemas.
+If there’s no terminal, you can withdraw cash from the nearest ATM or transfer money to the seller via the mobile app.
+• Online. You can use your credit card for online purchases (including via QR code) and link it to online services — taxis, streaming platforms, and more.
+If linked, you won’t need to enter the card number each time — payments will go through automatically.
+
+How to transfer money from a credit card
+You can transfer money by phone number or card number, between your own accounts via the mobile app or Alfa-Online in the “Payments” section.
+The commission for transfers by card number is 5.9% + ₽390;
+By phone number or between your own accounts — 5.9% of the amount + ₽150.
+Whether the grace period applies to transfers depends on your contract terms — check in the mobile app or Alfa-Online → Credit card account → Interest-free period.
+
+How to get a certificate for a credit card
+You can get a certificate for free in the mobile app or Alfa-Online: Card account → Get certificate or statement.
+We’ll send the required certificate to your email in PDF format with signature and blue stamp.
+You can get:
+• Certificate of available balance (in Russian or English)
+• Certificate of credit presence or absence
+• Account statement
+• Credit statement
+
+Will service fees be charged while the credit agreement is being terminated?
+No, if the card is immediately closed. You won’t be able to use it and won’t owe anything.
+
+Is there a service fee for a credit card
+The service fee depends on your contract terms.
+You can view the fee in the mobile app or Alfa-Online: Credit card → Tariffs.
+
+How to close a card?
+Contact the Call Center or send a request in the app Chat.
+We’ll close the card immediately. If there was a service fee, it won’t be charged anymore.
+The account linked to the card will remain open. You can continue to use it without the card, link another card to it, or close it.
+
+What happens to other accounts when terminating a credit card agreement
+Terminating the credit card agreement doesn’t affect your other accounts or cards.
+Their service terms remain unchanged.
+
+How to block the card?
+On the main screen of the mobile app, tap All my products → Card → Freeze card.
+
+How many days does it take to close a credit agreement?
+Until the agreement is closed, the credit card remains visible in the app.
+If there are no operations on it, the agreement will be closed 45 days after the request.
+
+How to terminate the credit card agreement?
+Contact the Call Center or send a request in the app Chat.
+
+Under what conditions can you terminate a credit card agreement?
+You can terminate a credit card agreement if:
+• There is no credit debt
+• There is no personal money on the card
+• There are no arrests or holds on the card account from tax authorities or bailiffs
+• There are no pending transactions on the account — if any exist, wait for confirmation, which may take a few days
