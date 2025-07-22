@@ -80,20 +80,3 @@ Datasets are available: https://huggingface.co/datasets/mllab/smiles-2025
 ]
 ```
 
----
-
-## 🧠 Future Work
-
-You can go beyond this baseline by:
-- Improving retrieval quality
-- Tuning prompts and model configuration
-- Adding fallback mechanisms or filtering
-- Using alternative LLMs methods
-
----
-
-## 📩 Contact
-
-For questions or clarifications, please contact your project mentor (Telegram: @aaasenin).
-
----
