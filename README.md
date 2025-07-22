@@ -14,7 +14,7 @@ This repository contains the hybrid retrieval solutions for SMILES 2025 project 
 ### Key Components
 
 - **Retriever**: Custom BM25S Langchain Integration
-- **LLM**: `Qwen2.5` served via Ollama. You are free to use alternative LLMs and APIs.
+- **LLM**: `Qwen2.5` served via Ollama.
 - **Prompt**: Instructional prompt ensuring concise and grounded answers
 
 ---
