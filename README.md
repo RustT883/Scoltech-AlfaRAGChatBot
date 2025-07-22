@@ -8,7 +8,7 @@ This repository contains the hybrid retrieval solutions for SMILES 2025 project 
 
 ### Files
 
-- `baseline.py` — Currently creates disk-persisted knowledge base with the use ChromaDB and runs RAG retrieval-augmented QA system.
+- `baseline.py` — Currently creates disk-persisted knowledge base with the use ChromaDB and runs RAG system.
 - `metrics.py` — Evaluates predictions using the **METEOR** metric.
 
 ### Key Components
