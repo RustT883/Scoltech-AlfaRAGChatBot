@@ -39,7 +39,7 @@ This will print the **average METEOR score** for the predicted answers.
 
 ---
 
-## 📊 Metric
+## 📊 Metrics
 
 - The available evaluation metrics are **METEOR**, **Context Precision**, **Context Recall** and **Faithfulness**
 - Reference answers are compared to model outputs
