@@ -1,6 +1,6 @@
 # RAG-Powered LLM Agents for Banking Chatbots and Assistants
 
-This repository contains the hybrid retrieval solutions for SMILES 2025 project focused on building a **Retrieval-Augmented Generation (RAG)** system for banking chatbots using Large Language Models (LLMs).
+This repository contains the various solutions for SMILES 2025 project focused on building a **Retrieval-Augmented Generation (RAG)** system for banking chatbots using Large Language Models (LLMs), utilizing hybrid search and semantic splitting.
 
 
 
