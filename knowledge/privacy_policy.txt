@@ -1,0 +1,151 @@
+PRIVACY POLICY
+Using the services and platforms of Alfa-Bank, our clients, employees, and partners entrust us with their data.
+We highly value this trust and do everything possible to protect personal data and safeguard banking and commercial confidentiality.
+We monitor legal and technological innovations in this area and strictly comply with Russian laws.
+This policy outlines our approach and the measures we follow when working with personal and confidential data.
+The policy describes in detail what personal and confidential data we collect, how we use it, and how our clients, employees, and partners can manage this process.
+The policy should be viewed in conjunction with other policies on the processing of personal and confidential data available on the bank’s website.
+The policy applies to all processes related to the processing and use of personal and confidential data, as well as information about our clients’ transactions, accounts, and deposits.
+
+Whose Data We Process
+
+job applicants, employees, former employees;  
+individuals who have entered into civil law contracts for services with the bank;  
+close relatives/family members of employees;  
+potential and current clients — individuals,
+  clients — sole proprietors, individuals engaged in private practice;  
+potential and current clients — legal entities;  
+users of the website and mobile app;  
+employees of the bank’s suppliers and other partners
+  under contractual relations with the bank;  
+individuals — beneficiaries, beneficial owners,
+  representatives, guarantors, pledgors, former clients/applicants who did not become clients (pledgors, guarantors);  
+clients of other legal entities on their behalf for such processing;  
+shareholders;  
+visitors to the bank;  
+individuals — respondents who are not clients of the bank;  
+other persons who have established or plan to establish contractual relations with the bank;  
+other individuals contacting the bank (if necessary to process personal data).
+
+
+Your Rights
+Our clients, employees, and partners have the right to know how we use data.
+Here are some examples of what we disclose:
+
+confirmation of the fact of processing your personal data;  
+legal grounds and purposes of processing your personal data;  
+data processing methods we apply;  
+name and location of the bank;  
+information about persons (excluding bank employees) who have access to your personal data or to whom we may transfer it in the future;  
+list and categories of personal data being processed, the source of their receipt, unless another procedure is stipulated by law;  
+terms of processing and storing personal data;  
+information on whether your data was or may be transferred to other countries;  
+name or surname, first name, patronymic, and address of the person processing your personal data on behalf of the bank, if processing is delegated to such a person;  
+confirmation of the bank's use of automated decision-making processes based solely on personal data.  
+
+You have the right to ask us to correct or supplement your personal data if inaccuracies are discovered.
+You have the right to change your mind — withdraw your consent to the processing of personal data and ask for it to be deleted from our information systems.
+This is possible when your data is no longer needed for the purposes we requested it, and we have no legal grounds for its processing.
+You also have the right to request restriction of the processing of your personal data used for promotional purposes.
+You have the right to ask us to stop transferring your personal data, which you had previously allowed.
+
+What Data We Process
+We process large volumes of personal and confidential data, which can be grouped into five categories:
+
+General personal data (e.g., surname, first name, patronymic, date and place of birth, passport data, registration and residence address, etc.)  
+Biometric personal data  
+Personal data you have permitted for dissemination  
+Confidential data that constitute banking and commercial secrets  
+Special categories of personal data: health status, facts of criminal prosecution or its termination on grounds and in cases provided by law
+
+We do not collect or process personal data on racial origin, political views, religious or philosophical beliefs, or sexual life.
+
+How and Why We Process Data
+We request your data so you can use the bank's products and services, conduct transactions, enter into contracts, and more.
+Here are some examples of how this data is used:
+
+performing our core activities, including banking operations, entering into, executing, and terminating contracts, organizing HR records and document management, improving and developing bank products, maintaining user statistics for the website and mobile app, storing user preferences and settings, providing remote service, submitting reports to regulators per legal requirements, and other purposes stated in the personal data processing policy;  
+improving the client experience, service quality, and software;  
+promoting third-party products and services, including sending informational and advertising messages about their services;  
+creating data information systems, analysis, forecasting, targeting, building scoring models, using processed data results, aggregated and anonymized data for statistical and research purposes;  
+ensuring the security of premises and storage facilities, safeguarding money, valuables, and equipment, controlling and managing access to secure areas and personal safety deposit boxes in automated vaults, verifying identity;  
+processing (including collection and storage) of biometric personal data (e.g., face and voice images) for transmission to the Unified Biometric System.
+
+We process personal data automatically, manually, or using a mixed approach.
+We never rely solely on automated processing of personal data for decisions that may have legal consequences or otherwise affect your rights and lawful interests — unless required by law.
+We process your personal data only with your consent, except where otherwise provided by law.
+We comply with personal data confidentiality requirements and fulfill our legal obligations in processing and protecting data.
+When there is no longer a need to process your personal data, or if you withdraw consent and we lack legal grounds for further processing, we destroy your data irreversibly within the statutory period, unless otherwise provided.
+
+How We Share Personal Data with Third Parties
+We provide information containing your personal data to third parties in accordance with legal requirements.
+With your consent, we may assign the processing of your personal data to another party based on a contract, unless otherwise required by law.
+A mandatory condition of such a contract is the compliance of that party with the legally established principles and rules of personal data processing, confidentiality, and security.
+With your consent, we may also transfer your personal data across borders.
+
+How We Protect Personal Data
+Our set of personal data protection measures is aimed at ensuring data security during processing in the bank's information systems.
+It takes into account the specific architecture of our personal data systems, bank infrastructure, and information technologies we use.
+Specifically, to ensure the security of personal data, we:
+
+identify threats to personal data security during processing;  
+apply organizational and technical measures to neutralize such threats in accordance with Russian legislation;  
+use information protection tools that have passed conformity assessments and are intended to neutralize relevant threats;  
+evaluate the effectiveness of security measures before launching the respective personal data information system;  
+track physical media containing personal data;  
+take actions to detect unauthorized access to personal data and respond accordingly, including detecting, preventing, and eliminating consequences of cyberattacks on personal data systems, and reacting to cybersecurity incidents;  
+ensure the ability to recover personal data if it is altered or destroyed without authorization;  
+establish access rules for personal data and maintain logs of actions taken with personal data in the information system;  
+monitor the security measures in place for personal data protection.
+
+
+How We Protect Confidential Data
+We work with a large volume of data on clients’ transactions, accounts, and deposits, and guarantee the protection of information constituting banking and commercial secrets in accordance with legal requirements.
+Our principles when working with confidential data:
+
+We follow the Federal Law “On Banks and Banking Activities” dated 02.12.1990 No. 395-1.  
+We guarantee the confidentiality of information constituting bank secrets regarding the operations, accounts, and deposits of our clients and correspondent banks.  
+We ensure the confidentiality of operations, accounts, and deposits of current and former bank employees and do not disclose such information to shareholders, board members, or other stakeholders.  
+We disclose information constituting banking secrets only in cases permitted by law.
+
+
+How the Policy Works
+All employees, third parties, and other stakeholders involved in operations related to the processing of personal and confidential data are required to comply with this policy.
+Bank employees authorized to process personal and confidential data must:
+
+know and strictly follow the legal provisions related to personal and confidential data, this policy, and internal bank regulations on data processing and protection;  
+process personal and confidential data only within the scope of their job duties;  
+not disclose personal and confidential data processed by the bank;  
+report actions by others that may violate this policy;  
+report any policy violations to the person responsible for organizing personal and confidential data processing at the bank.
+
+To comply with legal requirements, we:
+
+appointed a person responsible for organizing personal data processing;  
+developed and approved policies and internal documents establishing procedures to prevent and detect legal violations and address their consequences;  
+implemented a range of legal, organizational, and technical measures to ensure the security of personal data under applicable Russian law;  
+assess potential harm from legal violations concerning the individuals whose personal data we process, and correlate this with the measures we take;  
+conduct internal control and/or audit for compliance with Russian law, regulatory acts, data protection requirements, our personal data policies, and applicable internal regulations;  
+analyze our products and processes to ensure proper processing of personal and confidential data;  
+inform employees responsible for personal data processing about legal requirements, including protection measures, and train them on applicable regulations and policies.
+
+Individuals who violate the regulations governing the processing and protection of personal or confidential data are held accountable under applicable law.
+
+Responsibility
+The policy is approved by order of the Chairman of the Management Board, under the authority specified in the bank’s charter.
+Compliance with the policy is monitored by the persons responsible for organizing the processing of personal and confidential data within the bank.
+
+If You Need Help
+Questions regarding the content and application of this policy, as well as reports of its violations, can be submitted via the feedback form on the bank’s website, specifying "Privacy Policy" as the subject.
+
+Glossary
+personal data — any information relating to an identified or identifiable individual (personal data subject)
+confidential data (in the context of this policy) — information on transactions, accounts, and deposits that constitutes banking or commercial secrets
+personal data subject — an individual who is directly or indirectly identified or identifiable based on personal data
+personal data processing — any action (operation) or set of actions (operations) performed with personal data using automated or non-automated tools, including collection, recording, systematization, accumulation, storage, updating (modification), extraction, use, transfer (dissemination, provision, access), assignment to third parties, receipt from third parties, depersonalization, blocking, deletion, destruction of personal data
+personal data information system — a set of personal data stored in databases and processed using information technologies and technical means
+depersonalization of personal data — actions that make it impossible to identify the subject of personal data without using additional information
+cross-border personal data transfer — transfer of personal data to a foreign country’s authority, individual, or legal entity
+person responsible for organizing personal data processing — an official appointed by order of the Chairman of the Management Board, responsible for implementing legal, organizational, and technical measures to ensure proper personal data processing in the bank per Russian legislation
+personal data destruction — actions that render it impossible to restore the content of personal data in the information system and/or destroy the physical media on which personal data is stored
+third party — a person not a party to the obligation but who may acquire rights and obligations under the law or contract

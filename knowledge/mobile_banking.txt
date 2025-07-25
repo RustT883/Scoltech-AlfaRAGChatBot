@@ -1,0 +1,72 @@
+
+Authentication – confirmation of the legitimacy of a User’s request to the Bank via the Mobile Bank for conducting operations in accordance with the present Agreement.
+
+Alfa-Check Light – a service provided by the Bank that sends notifications in the form of SMS messages to the User’s Phone Number and Push notifications to the User’s Mobile Device (used to access the Mobile Bank). These notifications contain information about transactions performed with the Virtual Card connected to the service, the Remaining Limit of the Virtual Card, and also include a One-Time Password. The service also allows the User to perform other operations specified in this Agreement.
+
+Bank – JOINT-STOCK COMPANY "ALFA-BANK" (OGRN 1027700067328, registered address: 107078, Moscow, Kalanchyovskaya Street, 27).
+
+Contactless Payment – a method of conducting transactions via devices supporting NFC technology (Bank ATMs, terminals of other credit institutions, POS terminals) using a Card Token by bringing or touching a Mobile Device with NFC functionality to a reader terminal without physical contact. Under this Agreement, Contactless Payment can be used for Expense Transactions, Replenishment Transactions, and inquiries of the Virtual Card’s Remaining Limit.
+
+Verification – the process of identifying the User when contacting the Bank via the Mobile Bank to carry out operations under the terms of this Agreement.
+
+Virtual Card – a non-personalized, reloadable, prepaid virtual banking card “NEXT” issued by the Bank under the international payment system MasterCard Worldwide, which has no physical carrier. It is an electronic payment instrument used for operations in accordance with Federal Law No. 161-FZ dated June 27, 2011, “On the National Payment System,” and is settled by the Bank. If a Card Token is created in the Mobile Bank for this card, it can be used in ATMs and POS terminals that support Contactless Payment, provided technical conditions are met. A bank account is not opened for the User when the Virtual Card is issued.
+
+Virtual Token – a character string automatically generated and sent by the Bank to the User’s Mobile Device (used to access the Mobile Bank) for the purpose of Authentication. The validity period of the Virtual Token is determined by the Bank.
+
+Card Issuance Agreement – the agreement governing the issuance and servicing of the reloadable prepaid virtual banking card “NEXT,” concluded between the User and the Bank.
+
+Applicant – an individual who applies to the Bank to enter into this Agreement.
+
+Card Token – a virtual representation of a Virtual Card within a Mobile Payment Service, containing a set of Virtual Card details stored in the Mobile Payment Service, used for Contactless Payment. The procedures for creation and use of Card Tokens in various Mobile Payment Services are published on the Bank’s Website.
+
+Code – a sequence of numeric characters known only to the User, linked to the User’s Mobile Device (used to access the Mobile Bank), that allows unambiguous Authentication of the User when using the Mobile Bank. The Code may be used on only one Mobile Device.
+
+Alfa-Bank Mobile Application (Mobile Bank) – a mobile application by JSC “ALFA-BANK” for iOS (version 9 or higher) and Android (version 4.4 or higher), consisting of Bank software installed on a Mobile Device. Upon Verification and Authentication, the User can remotely carry out operations provided under this Agreement using electronic communication tools.
+
+Mobile Device – a mobile phone (cell phone) supporting JavaTM MIDP 2.0 technology, or a device with added PDA functionality, or a tablet, smartwatch, or other device capable of installing the Mobile Bank and/or supporting NFC technology used for Contactless Payment.
+
+Phone Number – the cellular phone number provided by the User to the Bank during Registration and stored in the Bank’s information system.
+
+One-Time Password – a numeric sequence generated and sent by the Bank via SMS or Push notification to the User’s Phone Number. It is generated when the User initiates a transaction via the Mobile Bank that requires additional verification using a One-Time Password. The procedure for using the One-Time Password in the Mobile Bank is defined by the Bank.
+
+Operation – an Expense Operation, Replenishment Operation, or Refund Operation in Russian rubles, conducted using the Virtual Card, its Details, or the Card Token.
+
+Refund Operation – an increase in the Remaining Limit due to the return of funds to the User by a Merchant in Russian rubles in case of non-provision of Services, refusal of Services, or other reasons stipulated by Russian legislation or agreements between the User and the Merchant.
+
+Replenishment Operation – an increase in the Virtual Card’s Remaining Limit in Russian rubles in the manner specified in the Agreement.
+
+Remaining Limit of the Virtual Card – the remaining balance of electronic funds in Russian rubles within which the Bank commits to transfer funds for payment of Expense Operations made using the Virtual Card, considering previously conducted Expense Operations. If the User is not identified in accordance with Federal Law No. 115-FZ dated August 7, 2001, “On Combating Money Laundering and Financing of Terrorism,” the use of the Virtual Card is limited to a Remaining Limit of no more than 15,000 rubles at any time, except as provided in part 5.1 of article 10 of Federal Law No. 161-FZ dated June 27, 2011, “On the National Payment System.”
+
+Bank Branch – an additional office or credit and cash office of JSC “ALFA-BANK” where services for individuals are provided.
+
+User – an Applicant who has completed the Registration procedure and accepted the terms of this Agreement, using the Mobile Bank for non-commercial purposes.
+
+Payment System – the international payment systems MasterCard Worldwide, Visa International, and the national payment system “MIR.”
+
+Mobile Payment Service – a service provided by third-party non-credit institutions (Apple Pay, Google Pay) that allows the User to use a Mobile Device for Contactless Payment.
+
+Expense Operation – any operation in Russian rubles conducted using the Virtual Card, its Details, or the Card Token, related to payment for a Service, performed in accordance with the Agreement.
+
+Registration – actions taken by the Applicant to create a User account in the Mobile Bank by providing their Phone Number, last name, first name, patronymic, and date of birth.
+
+Virtual Card Details (Details) – the full or partial set of Virtual Card attributes: Virtual Card number (16 digits), CVC2 code, expiration date of the Virtual Card, and PIN code.
+
+Tariffs – a schedule of the Bank’s commissions and their amounts payable by the User under this Agreement and/or the Card Issuance Agreement, published on the Bank’s Website.
+
+Merchant (TSP) – a commercial enterprise established in the territory of the Russian Federation in accordance with Russian legislation (excluding non-commercial organizations except for religious and charitable organizations properly registered, homeowners’ associations, housing or housing construction cooperatives, or other specialized consumer cooperatives, regional operators established as funds under the Housing Code of the Russian Federation), providing the User with a Service, including via the Internet, excluding goods (works, services) listed by the Russian Government for which a payment agent is not allowed to accept payments from individuals.
+
+Bank Website – the Bank’s website on the Internet, located at https://alfabank.ru, including all Bank software installed on tablets, mobile phones, and other mobile devices, as well as the set of reference information, its presentation methods, and technical tools that enable Internet users to access such information.
+
+Internet – the global information and telecommunications network “Internet.”
+
+Virtual Card Validity Period – the time period during which the User can perform Expense Operations, Replenishment Operations, and Refund Operations using the Virtual Card.
+
+Service – services, goods, works, and results of intellectual activity provided to the User by a Merchant, including via the Internet, excluding goods (works, services) listed by the Russian Government for which a payment agent is not allowed to accept payments from individuals. These are paid by the User using the Virtual Card, its Details, or the Card Token.
+
+Electronic Log – an interconnected set of electronic records in various Bank information systems reflecting all checks and actions taken by the User/Bank under the Agreement. The Electronic Log is stored at the Bank and serves as evidence in the resolution of disputes, including in court.
+
+NFC (Near Field Communication) – a short-range wireless high-frequency communication technology that enables data exchange between devices.
+
+CVC2 Code – the security code of the Virtual Card used to carry out Expense Operations.
+
+PIN Code – a secret personal identification number assigned individually to each Virtual Card, serving as the User’s equivalent of a handwritten signature. The PIN code is independently set by the User in accordance with the Card Issuance Agreement.
