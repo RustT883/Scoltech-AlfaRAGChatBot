@@ -2,18 +2,28 @@
 
 This repository contains the various solutions for SMILES 2025 project focused on building a **Retrieval-Augmented Generation (RAG)** system for banking chatbots using Large Language Models (LLMs), utilizing hybrid search and semantic splitting.
 
-
+| Configuration                  | Factual Correctness | METEOR |
+|--------------------------------|---------------------|--------|
+| **Semantic Chunking**          |                     |        |
+| - BM25S Only                   | 0.38                | 0.37   |
+| - Chroma Only                  | 0.33                | 0.33   |
+| - Hybrid (BM25S + Chroma)      | 0.37                | 0.36   |
+| **Recursive Chunking**         |                     |        |
+| - BM25S Only                   | 0.41                | 0.38   |
+| - Chroma Only                  | 0.38                | 0.37   |
+| - Hybrid (BM25S + Chroma)      | **0.41**            | **0.39** |
 
 ## 📁 Structure
 
 ### Files
 
-- `baseline.py` — Currently creates disk-persisted knowledge base with the use ChromaDB and runs RAG system.
-- `metrics.py` — Evaluates predictions using the **METEOR** metric.
+- `baseline_*.py` — create disk-persisted knowledge bases and run RAG to generate JSONs `valid_predictions_*.json`.
+- `metrics.py` — Evaluates predictions using the **METEOR** metric on `valid_predictions_*.json` files.
+- `evaluate_factual_correctness` — calculates Factual Correctness metric from RAGAS on `valid_predictions_*.json` files.
 
 ### Key Components
 
-- **Retriever**: Custom BM25S Langchain Integration
+- **Retriever**: Custom BM25S Langchain Integration and Langchain Chroma
 - **LLM**: `Qwen2.5` served via Ollama.
 - **Prompt**: Instructional prompt ensuring concise and grounded answers
 
@@ -22,17 +32,17 @@ This repository contains the various solutions for SMILES 2025 project focused o
 ### Run Baseline QA Generation
 
 ```bash
-python3 baseline.py valid_dataset.json valid_predictions.json knowledge/
+python3 baseline_*.py valid_dataset.json valid_predictions.json knowledge/
 ```
 
 - `valid_dataset.json`: input JSON with customer queries
-- `valid_predictions.json`: output file with predicted responses
+- `valid_predictions_*.json`: output file with predicted responses
 - `knowledge/`: folder containing `.txt` documents used as the knowledge base
 
 ### Run Evaluation
 
 ```bash
-python3 metrics.py valid_predictions.json
+python3 metrics.py valid_predictions_*.json
 ```
 
 This will print the **average METEOR score** for the predicted answers.
@@ -41,7 +51,7 @@ This will print the **average METEOR score** for the predicted answers.
 
 ## 📊 Metrics
 
-- The available evaluation metrics are **METEOR**, **Context Precision**, **Context Recall** and **Faithfulness**
+- The available evaluation metrics are **METEOR** and **Factual Correctness**
 - Reference answers are compared to model outputs
 
   
