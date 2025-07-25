@@ -23,7 +23,7 @@ This repository contains the various solutions for SMILES 2025 project focused o
 
 ### Key Components
 
-- **Retriever**: Custom BM25S Langchain Integration and Langchain Chroma
+- **Retrievers**: Custom BM25S Langchain Integration and Langchain Chroma
 - **LLM**: `Qwen2.5` served via Ollama.
 - **Prompt**: Instructional prompt ensuring concise and grounded answers
 
@@ -44,8 +44,12 @@ python3 baseline_*.py valid_dataset.json valid_predictions.json knowledge/
 ```bash
 python3 metrics.py valid_predictions_*.json
 ```
-
 This will print the **average METEOR score** for the predicted answers.
+
+```bash
+python3 evaluate_factual_correctness.py'
+```
+This will run **Factual Correctness** on a list of JSON files with predictions specified in `evaluate_factual_correctness.py`
 
 ---
 
@@ -66,6 +70,10 @@ Datasets are available: https://huggingface.co/datasets/mllab/smiles-2025
 - `knowledge/` — Directory with knowledge base files in `.txt` format
 
 ---
+
+## :page_with_curl: Report
+
+This repo also contains the `.pdf` file — a project report paper for SMILES2025. You can read it if you want. 
 
 ## 📎 Example
 
