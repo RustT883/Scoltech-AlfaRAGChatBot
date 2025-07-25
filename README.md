@@ -99,4 +99,6 @@ This repo also contains the `.pdf` file — a project report paper for SMILES202
   }
 ]
 ```
+## :rocket: Reproduce the results
 
+Make sure to build a virtual environment and do `pip install -r requirements.txt`, pretty basic stuff.
