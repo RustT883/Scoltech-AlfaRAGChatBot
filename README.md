@@ -75,6 +75,8 @@ Datasets are available: https://huggingface.co/datasets/mllab/smiles-2025
 
 This repo also contains the `.pdf` file — a project report paper for SMILES2025. You can read it if you want. 
 
+---
+
 ## 📎 Example
 
 ### Input JSON (`valid_dataset.json`)
