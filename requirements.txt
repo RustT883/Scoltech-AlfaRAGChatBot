@@ -1,0 +1,11 @@
+langchain==0.3.27
+langchain_chroma==0.2.5
+langchain_community==0.3.27
+langchain_core==0.3.72
+langchain_experimental==0.3.4
+nltk==3.9.1
+numpy==2.3.2
+pydantic==2.11.7
+ragas==0.2.15
+torch==2.7.0+cu128
+tqdm==4.67.1
